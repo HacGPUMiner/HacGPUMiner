@@ -1,4 +1,5 @@
-## Hi there 👋
+HacGPUMiner 
+Hac GPU Miner
 
 <!--
 **HacGPUMiner/HacGPUMiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
