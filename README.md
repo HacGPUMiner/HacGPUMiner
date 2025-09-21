@@ -1,5 +1,10 @@
-HacGPUMiner 
-Hac GPU Miner
+## keyword
+- HacGPUMiner
+- hacgpuminer
+- Hac GPU Miner
+- hac gpu miner
+- Hacash GPU Miner
+- hacash gpu miner
 
 <!--
 **HacGPUMiner/HacGPUMiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
